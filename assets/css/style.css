@@ -111,3 +111,6 @@ ul li span:hover{
     background: #edeef0;
 }
 
+#copytext{
+    display: none;
+}
